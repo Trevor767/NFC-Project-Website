@@ -199,7 +199,7 @@ body {
     font-size: 1.8rem; /* Adjusted middle ground */
     text-align: center;
     white-space: normal; /* Allow wrapping */
-    max-width: 200px; /* Constrain width to encourage wrapping */
+    max-width: 250px; /* Constrain width to encourage wrapping */
     line-height: 1.4; /* Adjust line spacing for readability */
   }
 
@@ -245,7 +245,7 @@ body {
     font-size: 1.5rem; /* Adjusted middle ground */
     text-align: center;
     white-space: normal;
-    max-width: 180px; /* Tighter width for smaller screens */
+    max-width: 200px; /* Tighter width for smaller screens */
     line-height: 1.4;
   }
 
