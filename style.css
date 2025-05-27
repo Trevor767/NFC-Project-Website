@@ -199,7 +199,7 @@ body {
     font-size: 1.8rem; /* Adjusted middle ground */
     text-align: center;
     white-space: normal; /* Allow wrapping */
-    max-width: 450px; /* Constrain width to encourage wrapping */
+    max-width: 550px; /* Constrain width to encourage wrapping */
     line-height: 1.4; /* Adjust line spacing for readability */
   }
 
